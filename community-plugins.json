@@ -5876,7 +5876,7 @@
     "id": "mathlive",
     "name": "MathLive",
     "author": "danzilberdan",
-    "description": "Faster and more intuitive MathJax editing using MathLive.",
+    "description": "Visual LaTeX math editor with formula OCR. Scan screenshots, PDFs and handwriting into editable equations.",
     "repo": "danzilberdan/obsidian-mathlive"
   },
   {
